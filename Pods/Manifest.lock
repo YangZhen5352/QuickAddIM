@@ -1,0 +1,42 @@
+PODS:
+  - DACircularProgress (2.3.1)
+  - Hyphenate (3.2.2)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - MWPhotoBrowser (1.3.1):
+    - DACircularProgress
+    - MBProgressHUD
+    - PSTCollectionView (~> 1.2)
+    - SDWebImage (~> 3.5.4)
+  - PSTCollectionView (1.2.3)
+  - RedPacketAlipay (15.0.2)
+  - RedpacketLib (3.3.3):
+    - RedPacketAlipay
+  - SDWebImage (3.5.4):
+    - SDWebImage/Core (= 3.5.4)
+  - SDWebImage/Core (3.5.4)
+
+DEPENDENCIES:
+  - DACircularProgress
+  - Hyphenate
+  - MBProgressHUD
+  - MJRefresh
+  - MWPhotoBrowser
+  - RedPacketAlipay
+  - RedpacketLib
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  Hyphenate: 8d497c87b091e1bd16dba0edd5ba9e291ae5a7ac
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MWPhotoBrowser: 21c403da4f44043e0cd2cd27a6fd30a7f4c431c1
+  PSTCollectionView: 6749df92885353521f55279a7ce2b293762e2be4
+  RedPacketAlipay: a5de6db2e2671fc9255d6d396be869e3ba2f0489
+  RedpacketLib: 83ab1c466d0ca1373046d80599f749a4e3f188a6
+  SDWebImage: 32ca144928625f9a04d561115028cf6db3aa7b63
+
+PODFILE CHECKSUM: 293ca5f31089987859092c8843e9997b6a6583ed
+
+COCOAPODS: 1.1.1
